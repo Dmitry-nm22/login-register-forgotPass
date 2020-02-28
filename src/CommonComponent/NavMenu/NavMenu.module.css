@@ -1,0 +1,7 @@
+.wraper{
+    display: flex;
+    justify-content: center;
+}
+.wraper div{
+    margin-right: 10px;
+}
